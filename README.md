@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Who am I?
+
+💻 Manapriya — Computer Science student passionate about exploring modern technologies and building practical projects.
+
+## 🚀 What am I currently working on?
+
+Currently working on cloud and web development projects while improving problem-solving skills through Data Structures & Algorithms.
+
+## 🛠 What tools do I use?
+
+AWS • Azure • Docker • Kubernetes • HTML • CSS • Git • VS Code
+
+## 📫 How to reach me?
+
+GitHub: https://github.com/imanapriya
+Email: [imanapriya2005@gmail.com](mailto:imanapriya2005@gmail.com)
+
