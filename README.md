@@ -29,5 +29,6 @@ AWS • Azure • Docker • Kubernetes • HTML • CSS • Git • VS Code
 ## 📫 How to reach me?
 
 GitHub: https://github.com/imanapriya
+
 Email: [imanapriya2005@gmail.com](mailto:imanapriya2005@gmail.com)
 
